@@ -411,3 +411,7 @@ input,textarea{
     border: none;
 }
 
+/*Icon Style*/
+.fa-solid{
+    margin-right: 5px;
+}
